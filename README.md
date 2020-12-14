@@ -1,2 +1,2 @@
 # netflix-homepage
-Studies in HTML and CSS
+Neflix static HomePage implementation (Digital Innovation One course)
